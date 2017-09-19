@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResultsSession buildId="Default Project-2017-09-19" date="09/19/17 12:54:07" machine="MARK-LAPTOP" project="Default Project" tag="Example Configuration" time="2017-09-19T12:54:07-04:00" toolName="SOAtest" toolVer="9.10.2.20170502" user="Softworx">
+   <TestConfig machine="MARK-LAPTOP" name="Example Configuration" pseudoUrl="soatest.user://Example Configuration" user="Softworx"/>
+   <Authors/>
+   <VersionInfos>
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.execution" resultId="IFunctionalTestViolation" ver="3"/>
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.execution" resultId="ICoverageCalculationResult" ver="1"/>
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.codereview" resultId="ICodeReviewUndefinedAuthorsInfo" ver="1"/>
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.codereview" resultId="ICodeReviewScannerInfo" ver="2"/>
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.scope" resultId="IScopeProjectInfo" ver="3"/>
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IMetricsViolation" ver="2"/>
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IDupCodeViolation" ver="2"/>
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IMetricEstimationInfo" ver="2"/>
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IFlowAnalysisViolation" ver="2"/>
+      <StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="ICodingStandardsViolation" ver="2"/>
+   </VersionInfos>
+   <Exec assoc="true">
+      <AssocUrls>
+         <Tag disp="Problem report" name="pr"/>
+         <Tag disp="Task" name="task"/>
+         <Tag disp="Asset" name="asset"/>
+         <Tag disp="Feature request" name="fr"/>
+         <Tag disp="Requirement" name="req"/>
+      </AssocUrls>
+   </Exec>
+   <mergePnt id="locationsDetails"/>
+   <mergePnt id="executedTestsDetails"/>
+   <Scope>
+      <ProjectInformations>
+         <ScopeProjectInfo fltFiles="1" fltLns="0" project="/TestAssets" totFiles="1" totLns="0"/>
+      </ProjectInformations>
+   </Scope>
+   <APICoverage>
+      <service definition-uri="http://localhost:8080/parabank/services/LoanProcessor?wsdl" type="SOAP">
+         <resource id="http://localhost:8080/parabank/services/LoanProcessor">
+            <operation name="requestLoan">
+               <test-ref id="wk:///TestAssets/LoanProcessor.tst#0000000000#0000000001#0000000002"/>
+            </operation>
+         </resource>
+      </service>
+   </APICoverage>
+   <FunctionalTests ownerId="com.parasoft.xtest.checkers.api.execution" time="0:00:00">
+      <Goals>
+         <Goal mode="1" name="Functional Test Violations" type="4"/>
+         <Goal mode="1" name="Runtime Error Detection Violations" type="5"/>
+      </Goals>
+      <mergePnt id="historyFunctional"/>
+      <Categories>
+         <Category desc="" id="4" label="Fix Functional Test Violations" label0="Fix Functional Test" label1="Violations" name="Functional Test Violations">
+            <SubCategory id="8" name="Functional Failures" short="functional failure"/>
+            <SubCategory id="10" name="XML Validation Errors" short="XML validation error"/>
+            <SubCategory id="11" name="Miscellaneous Errors" short="miscellaneous error"/>
+         </Category>
+         <Category desc="" id="6" label="Review Change Impact" label0="Review" label1="Change Impact" name="Change Impact">
+            <SubCategory id="16" name="Change Impact" short="change impact"/>
+         </Category>
+      </Categories>
+   </FunctionalTests>
+   <AssocUrls>
+      <Tag disp="Problem report" name="pr"/>
+      <Tag disp="Task" name="task"/>
+      <Tag disp="Asset" name="asset"/>
+      <Tag disp="Feature request" name="fr"/>
+      <Tag disp="Requirement" name="req"/>
+   </AssocUrls>
+</ResultsSession>

@@ -1,0 +1,20 @@
+!SESSION 2017-09-18 12:24:28.193 -----------------------------------------------
+eclipse.buildId=4.6.1.M20160907-1200
+java.version=1.8.0_102
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  Files\Parasoft\Test\9.10 for SOAtest & Virtualize\eclipse.exe -product com.parasoft.xtest.soavirt.product
+Command-line arguments:  -data C:\Softworx\hello-world -os win32 -ws win32 -arch x86_64 Files\Parasoft\Test\9.10 for SOAtest & Virtualize\eclipse.exe -product com.parasoft.xtest.soavirt.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-09-18 12:58:35.653
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2017-09-19 12:49:53.546 -----------------------------------------------
+eclipse.buildId=4.6.1.M20160907-1200
+java.version=1.8.0_102
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  Files\Parasoft\Test\9.10 for SOAtest & Virtualize\eclipse.exe -product com.parasoft.xtest.soavirt.product
+Command-line arguments:  -data C:\Softworx\hello-world -os win32 -ws win32 -arch x86_64 Files\Parasoft\Test\9.10 for SOAtest & Virtualize\eclipse.exe -product com.parasoft.xtest.soavirt.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-09-19 12:49:55.149
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.

@@ -1,0 +1,18 @@
+[ERROR] [12:49:59,697] Thread-11 com.parasoft.xtest.lic.client.validator.tokens.Logger: Cannot delete token file: C:\ProgramData\Parasoft\.pslic\2A85C4A7C2B04A158FCFBCAC263381_49e3b55ba90f2ba59e56.tok
+[ERROR] [12:49:59,697] Thread-9 com.parasoft.xtest.lic.client.validator.tokens.Logger: Cannot delete token file: C:\ProgramData\Parasoft\.pslic\0D95CCBC4C7DD5D6074059282944B5_49e3b55ba90f2ba59e56.tok
+[ERROR] [12:49:59,713] Thread-11 com.parasoft.xtest.lic.client.validator.tokens.Logger: Cannot delete token file: C:\ProgramData\Parasoft\.pslic\2A85C4A7C2B04A158FCFBCAC263381_49e3b55ba90f2ba59e56.tok
+[ERROR] [12:49:59,713] Thread-9 com.parasoft.xtest.lic.client.validator.tokens.Logger: Cannot delete token file: C:\ProgramData\Parasoft\.pslic\0D95CCBC4C7DD5D6074059282944B5_49e3b55ba90f2ba59e56.tok
+[ERROR] [12:49:59,744] Thread-9 com.parasoft.xtest.lic.client.validator.tokens.Logger: Cannot delete token file: C:\ProgramData\Parasoft\.pslic\0D95CCBC4C7DD5D6074059282944B5_49e3b55ba90f2ba59e56.tok
+[ERROR] [12:49:59,744] Thread-11 com.parasoft.xtest.lic.client.validator.tokens.Logger: Cannot delete token file: C:\ProgramData\Parasoft\.pslic\2A85C4A7C2B04A158FCFBCAC263381_49e3b55ba90f2ba59e56.tok
+[ERROR] [12:49:59,759] Thread-11 com.parasoft.xtest.lic.client.validator.tokens.Logger: Cannot delete token file: C:\ProgramData\Parasoft\.pslic\2A85C4A7C2B04A158FCFBCAC263381_49e3b55ba90f2ba59e56.tok
+[ERROR] [12:49:59,759] Thread-9 com.parasoft.xtest.lic.client.validator.tokens.Logger: Cannot delete token file: C:\ProgramData\Parasoft\.pslic\0D95CCBC4C7DD5D6074059282944B5_49e3b55ba90f2ba59e56.tok
+[ERROR] [12:49:59,775] Thread-9 com.parasoft.xtest.lic.client.validator.tokens.Logger: Cannot delete token file: C:\ProgramData\Parasoft\.pslic\0D95CCBC4C7DD5D6074059282944B5_49e3b55ba90f2ba59e56.tok
+[ERROR] [12:49:59,775] Thread-11 com.parasoft.xtest.lic.client.validator.tokens.Logger: Cannot delete token file: C:\ProgramData\Parasoft\.pslic\2A85C4A7C2B04A158FCFBCAC263381_49e3b55ba90f2ba59e56.tok
+[ERROR] [12:49:59,791] Thread-9 com.parasoft.xtest.lic.client.validator.tokens.Logger: Cannot delete token file: C:\ProgramData\Parasoft\.pslic\0D95CCBC4C7DD5D6074059282944B5_49e3b55ba90f2ba59e56.tok
+[ERROR] [12:49:59,791] Thread-11 com.parasoft.xtest.lic.client.validator.tokens.Logger: Cannot delete token file: C:\ProgramData\Parasoft\.pslic\2A85C4A7C2B04A158FCFBCAC263381_49e3b55ba90f2ba59e56.tok
+[ERROR] [12:49:59,806] Thread-9 com.parasoft.xtest.lic.client.validator.tokens.Logger: Cannot delete token file: C:\ProgramData\Parasoft\.pslic\0D95CCBC4C7DD5D6074059282944B5_49e3b55ba90f2ba59e56.tok
+[ERROR] [12:49:59,806] Thread-11 com.parasoft.xtest.lic.client.validator.tokens.Logger: Cannot delete token file: C:\ProgramData\Parasoft\.pslic\2A85C4A7C2B04A158FCFBCAC263381_49e3b55ba90f2ba59e56.tok
+[ERROR] [12:49:59,822] Thread-9 com.parasoft.xtest.lic.client.validator.tokens.Logger: Cannot delete token file: C:\ProgramData\Parasoft\.pslic\0D95CCBC4C7DD5D6074059282944B5_49e3b55ba90f2ba59e56.tok
+[ERROR] [12:49:59,838] Thread-9 com.parasoft.xtest.lic.client.validator.tokens.Logger: Cannot delete token file: C:\ProgramData\Parasoft\.pslic\0D95CCBC4C7DD5D6074059282944B5_49e3b55ba90f2ba59e56.tok
+[ERROR] [12:49:59,853] Thread-9 com.parasoft.xtest.lic.client.validator.tokens.Logger: Cannot delete token file: C:\ProgramData\Parasoft\.pslic\0D95CCBC4C7DD5D6074059282944B5_49e3b55ba90f2ba59e56.tok
+[ERROR] [12:50:02,950] main com.parasoft.xtest.checkers.api.rules.RulesCore: URL is nul in rule provider com.parasoft.xtest.execution.eclipse.core.web.checker

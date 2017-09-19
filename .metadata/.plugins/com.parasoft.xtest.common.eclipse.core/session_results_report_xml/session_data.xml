@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResultsSession>
+   <SessionData configName="Example Configuration" enabledAnalysis="Execution" enabledHandlers="com.parasoft.xtest.execution.api.coverage.factory;com.parasoft.xtest.checkers.api.scope.factory;com.parasoft.xtest.execution.api.soa.factory" header="?? ?? ??false??false??" runId="" startTime="1505840047342" tool="soatest">
+      <Authors/>
+      <Selection>
+         <Res id="/TestAssets"/>
+      </Selection>
+      <XmlDataFiles/>
+   </SessionData>
+   <Locations/>
+   <ExecutedTestsDetails type="FT">
+      <Total authChange="" authFail="" change="0" changePass="0" changeTotal="0" fail="0" name="Passed / Total" pass="1" time="0:00:00.014" total="1">
+         <Project authChange="" authFail="" change="0" changePass="0" changeTotal="0" fail="0" name="TestAssets" pass="1" time="0:00:00.014" total="1">
+            <TestSuite authChange="" authFail="" change="0" changePass="0" changeTotal="0" fail="0" id="wk:///TestAssets/LoanProcessor.tst" name="LoanProcessor.tst" pass="1" time="0:00:00.014" total="1">
+               <TestSuite auth="Softworx" authChange="" authFail="" change="0" changePass="0" changeTotal="0" fail="0" id="wk:///TestAssets/LoanProcessor.tst#0000000000" name="Test Suite: Test Suite" pass="1" time="0:00:00.014" total="1">
+                  <TestSuite auth="Softworx" authChange="" authFail="" change="0" changePass="0" changeTotal="0" fail="0" id="wk:///TestAssets/LoanProcessor.tst#0000000000#0000000001" name="Test Suite: LoanProcessorServiceImplPort" pass="1" time="0:00:00.014" total="1">
+                     <Test auth="Softworx" authChange="" authFail="" change="0" changePass="0" changeTotal="0" fail="0" id="wk:///TestAssets/LoanProcessor.tst#0000000000#0000000001#0000000002" name="Test 1: requestLoan" pass="1" root="true" startTime="1505840047404" time="0:00:00.014" tool="requestLoan" total="1"/>
+                  </TestSuite>
+               </TestSuite>
+            </TestSuite>
+         </Project>
+      </Total>
+   </ExecutedTestsDetails>
+   <FunctionalTests>
+      <HistoryData err="0" fail="0" isErrType="false" pass="1" startTime="1505840047342" subCtgrs="16;8;10;11" tsks="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0"/>
+   </FunctionalTests>
+</ResultsSession>

@@ -1,3 +1,5 @@
+//org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
+//org.eclipse.ui.commands/state/org.eclipse.wst.xml.views.XPathView.processor.xpathprocessor/org.eclipse.ui.commands.radioState=xpath10
 UIActivities.com.parasoft.xtest.languageAndFunctionalExtensions=true
 UIActivities.com.parasoft.xtest.test=true
 eclipse.preferences.version=1
